@@ -117,5 +117,22 @@ Unit 613, ABC Business Center, National Highway, Santa Rosa, Laguna, Philippines
 
 ---
 
+# PART 2 — Enterprise Hardware Inventory
+
+The following hardware inventory identifies the equipment required to support the daily operations of **ABC Startup Solutions**. The inventory covers employee workstations, servers, networking equipment, backup devices, and other essential IT hardware.
+
+| Asset ID   | Hardware              | Quantity | Department               | Purpose                                                                                |
+| ---------- | --------------------- | -------: | ------------------------ | -------------------------------------------------------------------------------------- |
+| **HW-001** | Desktop Computers     |       15 | IT, HR, Finance, Sales   | Main computers for employees who work mostly in the office                             |
+| **HW-002** | Laptops               |        5 | IT, Sales                | For IT staff and employees who may need to work outside their desks or attend meetings |
+| **HW-003** | Server                |        1 | IT                       | Used for centralized files, user accounts, applications, and other company services    |
+| **HW-004** | Network Switch        |        2 | IT                       | Connects computers, server, printer, and other network devices                         |
+| **HW-005** | Router                |        1 | IT                       | Provides internet access and manages the company's network                             |
+| **HW-006** | Printer               |        2 | HR, Finance              | Used for printing documents, reports, forms, and other office files                    |
+| **HW-007** | UPS                   |        4 | IT, Finance, Server Room | Provides temporary power during power interruptions and protects equipment             |
+| **HW-008** | Wireless Access Point |        3 | All Departments          | Provides Wi-Fi connection throughout the office                                        |
+| **HW-009** | NAS Storage           |        1 | IT                       | Used for shared file storage and an additional backup location                         |
+| **HW-010** | External Backup Drive |        2 | IT                       | Used for offline backups of important company files and server data                    |
+| **HW-011** | Monitors              |       20 | All Departments          | Provides a display for each employee's workstation                                     |
 
 
