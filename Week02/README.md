@@ -135,4 +135,73 @@ The following hardware inventory identifies the equipment required to support th
 | **HW-010** | External Backup Drive |        2 | IT                       | Used for offline backups of important company files and server data                    |
 | **HW-011** | Monitors              |       20 | All Departments          | Provides a display for each employee's workstation                                     |
 
+---
+
+# PART 3 — Enterprise Software Inventory
+
+The following software inventory identifies the applications and operating systems required to support the daily operations of **ABC Startup Solutions**. The selected software supports productivity, software development, server management, security, file management, and technical support.
+
+| Software               | Version                 | License               | Purpose                                                                 |
+| ---------------------- | ----------------------- | --------------------- | ----------------------------------------------------------------------- |
+| **Windows 11 Pro**     | Windows 11 Pro 24H2     | Paid                  | Main operating system for employee computers                            |
+| **Ubuntu Server**      | Ubuntu Server 24.04 LTS | Free / Open Source    | Used for the company's server and network services                      |
+| **Microsoft Office**   | Microsoft 365 Apps      | Subscription          | Used for documents, spreadsheets, presentations, and other office tasks |
+| **Visual Studio Code** | Latest Stable           | Free                  | Used by IT employees for coding and software development                |
+| **Git**                | Latest Stable           | Free / Open Source    | Used to track and manage changes in source code                         |
+| **GitHub Desktop**     | Latest Version          | Free                  | Makes it easier to manage GitHub repositories and upload code           |
+| **VirtualBox**         | Latest Version          | Free / Open Source    | Used to create virtual machines for testing different operating systems |
+| **Google Chrome**      | Latest Stable           | Free                  | Main web browser for internet access and web-based applications         |
+| **Microsoft Defender** | Built-in / Latest       | Included with Windows | Protects computers from viruses, malware, and other security threats    |
+| **AnyDesk**            | Latest Version          | Free / Paid License   | Used by IT staff for remote technical support                           |
+| **7-Zip**              | Latest Stable           | Free / Open Source    | Used to compress and extract files and folders                          |
+
+
+## Why Each Software Is Needed
+
+### 1. Windows 11 Pro
+
+Used as the main operating system for the company's desktop computers and laptops. The Pro version also provides additional business and security features.
+
+### 2. Ubuntu Server
+
+Used for the company server because it is free, reliable, and suitable for hosting different network and server services.
+
+### 3. Microsoft Office
+
+Needed by HR, Finance, Sales, and IT for creating documents, reports, spreadsheets, presentations, and other office files.
+
+### 4. Visual Studio Code
+
+Important for the IT department because it provides tools for writing and editing programming code.
+
+### 5. Git
+
+Helps developers keep track of changes in their projects and allows them to manage different versions of their code.
+
+### 6. GitHub Desktop
+
+Provides an easier way for employees to work with GitHub repositories without relying only on command-line commands.
+
+### 7. VirtualBox
+
+Allows the IT department to create virtual computers for testing software, operating systems, and server configurations without affecting the main systems.
+
+### 8. Google Chrome
+
+Used for browsing the internet, accessing online services, testing websites, and using web-based applications.
+
+### 9. Microsoft Defender
+
+Provides basic antivirus and security protection against malware and other common threats.
+
+### 10. AnyDesk
+
+Allows IT staff to remotely access computers when troubleshooting or providing technical support.
+
+### 11. 7-Zip
+
+Used to compress large files and extract downloaded or archived files, which can also help save storage space.
+
+---
+
 
