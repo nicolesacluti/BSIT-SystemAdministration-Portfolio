@@ -103,6 +103,8 @@ Unit 613, ABC Business Center, National Highway, Santa Rosa, Laguna, Philippines
 
 ## 6. Organizational Structure
 
+![Organizational Structure](images/organizational-structure.jpg)
+
 ## 7. Employee Distribution
 
 | Department             | Number of Employees |
