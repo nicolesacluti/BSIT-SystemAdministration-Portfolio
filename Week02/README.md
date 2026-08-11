@@ -46,7 +46,7 @@ Students are expected to demonstrate:
 
 ---
 
-## 🏢 Project Scenario
+## Project Scenario
 
 You have recently been hired as the **Junior System Administrator** of **ABC Startup Solutions,** 
 a newly established software development company.
