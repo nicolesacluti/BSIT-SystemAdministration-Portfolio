@@ -24,7 +24,7 @@
 ## Professional Accounts
 
 - **GitHub:** [https://github.com/nicolesacluti](https://github.com/nicolesacluti)
-- **LinkedIn:** [LinkedIn Profile]
+- **LinkedIn:** [\[LinkedIn Profile\]](https://www.linkedin.com/in/nicole-sacluti-b74a4b427)
 - **Email:** nicolesacluti13@gmail.com
 
 ## Challenges Encountered
